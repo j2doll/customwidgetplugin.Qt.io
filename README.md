@@ -12,5 +12,6 @@
 	- For example, Designer plugin directory (MingW) is as follows.
 	> D:\Qt\Qt5.11.2\5.11.2\mingw53_32\plugins\designer
 	
-
+## License
+- This project is part of the examples of the Qt Toolkit. https://www.qt.io/licensing/
 
