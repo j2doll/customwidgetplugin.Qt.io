@@ -8,8 +8,8 @@
 
 - Custom Widget Plugin is *.dll(or *.so)
 
-- Copy *.dll(or *.so) to Qt Designer plugin directory
-	- Designer plugin directory (MingW)
+- After build, Copy *.dll(or *.so) to Qt Designer plugin directory
+	- For example, Designer plugin directory (MingW) is as follows.
 	> D:\Qt\Qt5.11.2\5.11.2\mingw53_32\plugins\designer
 	
 
